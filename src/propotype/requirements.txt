@@ -7,3 +7,4 @@ langchainhub
 boto3
 duckduckgo-search
 numexpr
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
